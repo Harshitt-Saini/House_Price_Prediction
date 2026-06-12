@@ -86,4 +86,3 @@ A scatter plot was generated to compare actual and predicted house prices.
 | Mean Squared Error (MSE) | 1754318687330.6677 |
 | R² Score | 0.6529242642153177 |
 
-## Project Structure
